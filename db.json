@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello",
+      "items": [
+        "foo",
+        "bar",
+        "car",
+        "red",
+        "green",
+        "blue"
+      ]
+    }
+  ]
+}
